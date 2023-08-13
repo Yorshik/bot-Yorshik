@@ -1,0 +1,36 @@
+{
+  "accounts": {
+    "Admin Yorshik": {
+      "login": "Yorshik",
+      "password": "3113241009311313",
+      "codeword": "",
+      "activated_promos": [
+        "1",
+        "2"
+      ],
+      "bot_acc": 1,
+      "bot_data": {
+
+      },
+      "analog_bot_bandit_acc": 1,
+      "analog_bot_bandit_data": {
+
+      },
+      "real_life_acc": 1,
+      "real_life_data": {
+
+      },
+      "big_politic_game_acc": 1,
+      "big_politic_game_data": {
+
+      }
+    }
+  },
+  "bot_data": {
+    "pormos": [
+      "1",
+      "2",
+      "3"
+    ]
+  }
+}
